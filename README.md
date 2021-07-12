@@ -8,7 +8,7 @@
 - :computer: I’m currently learning Java, HTML, CSS, SQL.
 
 - :mag_right: How to reach me:
- ![image]({https://www.linkedin.com/in/ezgi-mavi/})
+
  
  ![Profile views](https://gpvc.arturio.dev/ezgimav)
  
